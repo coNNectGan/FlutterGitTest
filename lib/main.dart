@@ -44,8 +44,8 @@ class testWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container( 
       child: Column(children: <Widget>[
-        Text('Run and Run'),
-        Text('Run and Run'),
+        Text('Run and Run~'),
+        Text('Run and Run~'),
       ],),
     );
   }
